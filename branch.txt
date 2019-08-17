@@ -7,5 +7,5 @@ We have everything before us. We have nothing before us. We all going direct to 
 宏观是我们必须接受的，微观才是我们能够有所作为的。
 岁月不饶人，我亦未曾饶过岁月。
 检测是不是必须要提交才行。切换，若未提交就不行？？？？
-是的，不然你当前分支下的改变就没有了（？）
-为笔记演示1.0
+是的，不然你当前分支下的改变
+为笔记演示2.0
