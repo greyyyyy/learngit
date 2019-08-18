@@ -9,4 +9,5 @@ We have everything before us. We have nothing before us. We all going direct to 
 检测是不是必须要提交才行。切换，若未提交就不行？？？？
 是的，不然你当前分支下的改变
 为笔记演示2.0
-演示fast foreword
+演示 --no-ff
+演示 --no-ff
